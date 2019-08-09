@@ -2,11 +2,11 @@
 
 ## Learning Goals
 
-- Perform operations on arrays
+- Perform operations on `Array`s
 
 ## Introduction
 
-Let's practice array operations. As you practice, consider the use of methods
+Let's practice `Array` operations. As you practice, consider the use of methods
 that were built into the `Enumerable` and `Array` classes. Knowing built-in Ruby
 libraries saves time and prevents bugs.
 
@@ -14,25 +14,25 @@ libraries saves time and prevents bugs.
 
 ### `#using_max`
 
-Define a method that finds the highest number in a given array.
+Define a method that finds the highest number in a given `Array`.
 
 ### `#find_nth_element`
 
-Define a method that finds Nemo in a nested array.
+Define a method that finds Nemo in a nested `Array`.
 
 ### `#flatten_nested_arrays`
 
-Define a method that flattens a nested array.
+Define a method that flattens a nested `Array`.
 
 ### `#flatten_then_sort`
 
-Define a method that flattens the nested array, and then returns the previous
-array sorted alphabetically.
+Define a method that flattens the nested `Array`, and then returns the previous
+`Array` sorted alphabetically.
 
 ## Conclusion
 
 There are several methods built into Ruby libraries that help you work with data
-in arrays. By using these, you will avoid errors and make your code as clear as
+in `Array`s. By using these, you will avoid errors and make your code as clear as
 possible.
 
 ## Resources
