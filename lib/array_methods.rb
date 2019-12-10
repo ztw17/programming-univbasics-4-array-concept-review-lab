@@ -10,12 +10,7 @@ while count < array.length do
 end
 
 def find_max_value(array)
-x = 0 
- array.length.times { |index|
-  array[index] > x
-    x = array[index]
-end
-}
+  sorted
 end
 
 def find_min_value(array)
