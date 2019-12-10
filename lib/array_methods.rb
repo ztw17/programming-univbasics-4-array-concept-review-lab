@@ -26,5 +26,5 @@ end
 
 def find_min_value(array)
   sorted_array = array.sort
-  return sorted_array[-1]
+  return sorted_array[0]
 end
