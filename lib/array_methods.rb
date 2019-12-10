@@ -28,3 +28,12 @@ def find_min_value(array)
   sorted_array = array.sort
   return sorted_array[0]
 end
+
+def find_min_value(array)
+   counter = 0
+   while counter < array.length do
+     sorted_array =  array.sort
+     counter += 1
+   end
+   return sorted_array[0]
+ end
