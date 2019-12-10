@@ -10,7 +10,8 @@ while count < array.length do
 end
 
 def find_max_value(array)
-  sorted_array = 
+  sorted_array = array.sort
+  
 end
 
 def find_min_value(array)
