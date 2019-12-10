@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
   counter = 0 
   value = 0 
   while counter < array.lenth do
-    
+    value = array.index 
 
 def find_max_value(array)
   # Add your solution here
